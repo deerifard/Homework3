@@ -119,3 +119,19 @@ def имя := значение
    **Параметры:**  
    - `xml_text` — строка с XML-данными.  
    **Результат:** Строка с преобразованным документом.
+
+## Примеры использования
+
+![image](https://github.com/user-attachments/assets/c21dbd8f-b132-41d4-bb5b-bb5fe2464d58)
+
+
+До:
+![image](https://github.com/user-attachments/assets/9bcb24b9-98c8-46de-a2c0-d1079efdc2fa)
+
+После:
+![image](https://github.com/user-attachments/assets/0c1e7ad9-d1ad-422f-85da-507f4d3a6d4f)
+
+
+
+## Результаты прогона тестов
+![image](https://github.com/user-attachments/assets/d8551272-68f3-44b9-bff4-e0bb7e6ab4b4)
