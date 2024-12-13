@@ -126,9 +126,11 @@ def имя := значение
 
 
 До:
+
 ![image](https://github.com/user-attachments/assets/9bcb24b9-98c8-46de-a2c0-d1079efdc2fa)
 
 После:
+
 ![image](https://github.com/user-attachments/assets/0c1e7ad9-d1ad-422f-85da-507f4d3a6d4f)
 
 
